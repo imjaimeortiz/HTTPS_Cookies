@@ -1,0 +1,2 @@
+# HTTPS_Cookies
+El objetivo de esta práctica es mantener la funcionalidad del carrito de compra de la práctica HTTP Cookies, con los recursos pedidos al cliente. Pero en este caso, vamos a securizar el acceso al cliente web por medio de SSL. Para realizar esto, es necesario hacer uso de una autoridad de certificación (CA), que certifique tanto a cliente como servidor. Esta CA tendrá que ponerse como confiable por el cliente para que la comunicación esté realmente protegida.
